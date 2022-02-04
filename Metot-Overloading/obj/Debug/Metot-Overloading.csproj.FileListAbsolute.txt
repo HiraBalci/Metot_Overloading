@@ -1,0 +1,8 @@
+C:\Users\SOLITERA-I\Desktop\c sharp\Metot-Overloading\Metot-Overloading\bin\Debug\Metot-Overloading.exe.config
+C:\Users\SOLITERA-I\Desktop\c sharp\Metot-Overloading\Metot-Overloading\bin\Debug\Metot-Overloading.exe
+C:\Users\SOLITERA-I\Desktop\c sharp\Metot-Overloading\Metot-Overloading\bin\Debug\Metot-Overloading.pdb
+C:\Users\SOLITERA-I\Desktop\c sharp\Metot-Overloading\Metot-Overloading\obj\Debug\Metot-Overloading.csproj.AssemblyReference.cache
+C:\Users\SOLITERA-I\Desktop\c sharp\Metot-Overloading\Metot-Overloading\obj\Debug\Metot-Overloading.csproj.SuggestedBindingRedirects.cache
+C:\Users\SOLITERA-I\Desktop\c sharp\Metot-Overloading\Metot-Overloading\obj\Debug\Metot-Overloading.csproj.CoreCompileInputs.cache
+C:\Users\SOLITERA-I\Desktop\c sharp\Metot-Overloading\Metot-Overloading\obj\Debug\Metot-Overloading.exe
+C:\Users\SOLITERA-I\Desktop\c sharp\Metot-Overloading\Metot-Overloading\obj\Debug\Metot-Overloading.pdb
